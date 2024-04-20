@@ -41,6 +41,7 @@ The project utilizes visualizations to present the benchmarking results in a cle
 
 
 2. **Cores Utilization**: A line plot showing CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
+
 ![Cores Utilization](https://github.com/IshaanGaba/Multi-Threading/blob/5ee1985018272e1826e016b1b1ff0841b45b4167/cpu%201.png)
 ![Cores Utilization](https://github.com/IshaanGaba/Multi-Threading/blob/1d89f19b32b22baa6410ad9dc1caa9407fb47629/cpu%202.png)
 ![Cores Utilization](https://github.com/IshaanGaba/Multi-Threading/blob/1d89f19b32b22baa6410ad9dc1caa9407fb47629/cpu%203.png) 
