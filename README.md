@@ -50,8 +50,4 @@ Cores Utilization: A line plot showing CPU utilization over the course of matrix
 Conclusion
 The "Matrix Multiplication Performance Benchmark" project contributes to the understanding of how multi-threading influences the efficiency of matrix multiplication operations. By conducting comprehensive benchmarking experiments and analyzing performance metrics, the project sheds light on the scalability, effectiveness, and resource utilization of multi-threaded matrix multiplication algorithms. The insights gained from this project can inform the design and optimization of computational tasks involving matrix calculations, leading to improved performance and efficiency in various applications.
 
-Submitted By:
-Name: Divyam Malik
-Roll Number: 102103142
-Course: 3CO5
 This README provides a detailed overview of the Matrix Multiplication Performance Benchmark project, outlining its functionality, methodology, findings, and conclusions
