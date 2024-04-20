@@ -24,23 +24,29 @@ The benchmarking methodology employed by the project involves several key steps:
 
 3. **Performance Analysis**: The benchmarking results are analyzed to gain insights into the scalability and effectiveness of multi-threading in accelerating matrix multiplication operations. Performance metrics such as execution time, speedup, efficiency, and CPU utilization are computed and evaluated to provide a comprehensive assessment of multi-threaded matrix multiplication algorithms.
 
-## Findings
-
-The findings of the benchmarking experiments provide valuable insights into the performance characteristics of multi-threaded matrix multiplication algorithms. Key findings include:
-
-- The impact of multi-threading on computation time and efficiency.
-- The scalability of multi-threaded matrix multiplication with increasing thread counts.
-- The relationship between CPU utilization and the number of threads used for computation.
 
 ## Visualizations
 
 The project utilizes visualizations to present the benchmarking results in a clear and informative manner. Key visualizations include:
 
 1. **Thread vs Time Taken**: A line plot illustrating the relationship between the number of threads and the execution time of matrix multiplication operations. This visualization highlights how multi-threading affects computation speed and efficiency.
+   
+| Threads | Time Taken (s) |
+|---------|----------------|
+|    1    |    27.761860   |
+|    2    |    14.851453   |
+|    3    |    15.976468   |
+|    4    |    16.852965   |
+|    5    |    16.240497   |
+|    6    |    17.587126   |
+|    7    |    29.579058   |
+|    8    |    30.479495   |
+
+
 ![Thread vs Time Taken](output.png)
 
 
-2. **Cores Utilization**: A line plot showing CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
+3. **Cores Utilization**: A line plot showing CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
 
 ![Cores Utilization](https://github.com/IshaanGaba/Multi-Threading/blob/5ee1985018272e1826e016b1b1ff0841b45b4167/cpu%201.png)
 ![Cores Utilization](https://github.com/IshaanGaba/Multi-Threading/blob/1d89f19b32b22baa6410ad9dc1caa9407fb47629/cpu%202.png)
