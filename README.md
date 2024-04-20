@@ -45,7 +45,3 @@ The project utilizes visualizations to present the benchmarking results in a cle
 ![Cores Utilization](https://github.com/IshaanGaba/Multi-Threading/blob/1d89f19b32b22baa6410ad9dc1caa9407fb47629/cpu%202.png)
 ![Cores Utilization](https://github.com/IshaanGaba/Multi-Threading/blob/1d89f19b32b22baa6410ad9dc1caa9407fb47629/cpu%203.png) 
 
-## Conclusion
-
-The "Matrix Multiplication Performance Benchmark" project contributes to the understanding of how multi-threading influences the efficiency of matrix multiplication operations. By conducting comprehensive benchmarking experiments and analyzing performance metrics, the project sheds light on the scalability, effectiveness, and resource utilization of multi-threaded matrix multiplication algorithms. The insights gained from this project can inform the design and optimization of computational tasks involving matrix calculations, leading to improved performance and efficiency in various applications.
-
